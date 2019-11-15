@@ -1,4 +1,4 @@
-# CNN and SVM performances at solving a visual task, modeling the human Visual Cortex and retina
+# CNN and SVM performances at solving a visual task, modeling the human Visual Cortex
 
 During fixation, the human eye is performing a random movment (~50 Hz) around the stimulus it focuses on, known as **Occular Drifts**. This inter-saccade movement is casuing the stimulus to perform an unkown random trajectory on the retina, adding a hidden variable to the information proccessed by the Visual Cortex. As a result, it is unclear how the Cortex is able to perform a calculation of the data it recieves and still produce a still and clear image, as all of us know when we are looking at a chair and not seeing any noise or blur. In order to better understand the possible performed calculations, we examine in this project a well-studided visual acuity task, namely the **Vernier task**. In this classification task,  an image of two slightly misaligned vertical bars is presented to the human subject. The subject (the machine learning model in pur case) is then required to discriminate whether the bars are relatively aligned to the left or to the right.
 
